@@ -25,3 +25,6 @@ Frontend: React Native + Expo + React Native Paper
 Backend: Firebase Firestore + Firebase Authentication
 Real-time updates: Firestore onSnapshot
 
+[demo video]
+
+https://github.com/user-attachments/assets/38d78e89-54de-4e78-b49d-a011877cd3b1
